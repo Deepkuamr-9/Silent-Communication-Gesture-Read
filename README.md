@@ -354,6 +354,5 @@ If you found this project useful:
 
 **Built with ❤️ by Deep Kumar**
 
-**Special Contribution by Rimpa Das**
 
 </div>
